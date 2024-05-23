@@ -1,0 +1,18 @@
+#server.port=8710
+#server.servlet.context-path=/api
+#project.folder=D:/webser/easychat/
+#log.root.level=info
+
+
+server:
+  port: 8710
+  servlet:
+    context-path: /api
+
+project:
+  folder:
+    D:/webser/easychat
+log:
+  root:
+    level:
+      info
